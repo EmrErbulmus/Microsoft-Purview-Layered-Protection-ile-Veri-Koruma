@@ -23,7 +23,7 @@ Bu çalışma, her veri hareketinde doğru kontrol katmanını seçebilmek için
 
 ## Makaleyi oku
 
-➡️ **[Teknik makaleyi aç](docs/article.md)**
+➡️ **[Detaylar için Teknik makaleyi aç](docs/article.md)**
 
 ## Purview Layered Protection Makalenin kapsamı
 
