@@ -1,3 +1,5 @@
+➡️ **[Detaylar için Teknik makaleyi aç](docs/article.md)**
+
 ## Microsoft Purview Layered Protection ile Görünmeyen Veri Akışlarını Korumak
 
 # Veri Artık Bir Dosya Değil
